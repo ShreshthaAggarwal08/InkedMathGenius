@@ -7,7 +7,7 @@ InkedMathGenius is a powerful Handwritten Equation Solver designed to make math 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 
-![InkedMathGenius](InkedMathGenius.jpg)
+![InkedMathGenius](images/InkedMathGenius.jpg)
 
 ## Features
 
