@@ -2,12 +2,14 @@
 
 InkedMathGenius is a powerful Handwritten Equation Solver designed to make math easier for users by transforming handwritten math problems into accurate solutions. This application leverages a combination of technologies, including HTML, CSS, JavaScript, React.js, Django, OCR, and OpenCV, along with libraries like SymPy and NumPy, to provide a seamless and efficient equation-solving experience.
 
+
+![homePage](https://github.com/ShreshthaAggarwal08/InkedMathGenius/assets/119890674/483d41fd-e17f-4d6c-9e77-0bfac4e047fd)
+
+
 ## Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-
-![InkedMathGenius](images/InkedMathGenius.jpg)
 
 ## Features
 
